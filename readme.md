@@ -31,7 +31,7 @@ Perform a logistic regression (logit) on the IRIS dataset using all four feature
 Here's a link to the [starter code](./code/starter-code/week4-2.2-starter.ipynb)
 
 
-> [Solution code found here](./code/solution-code/week4-2.2-solution.ipynb)
+> [Solution code found here](./code/solution-code/week4-2.2-)
 
 #### Deliverable
 
